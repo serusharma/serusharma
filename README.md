@@ -1,6 +1,7 @@
 ## About Me:
 Information Technology undergraduate specializing in Artificial Intelligence and Machine Learning, with hands-on experience in developing AI-powered applications using Python, TensorFlow, and YOLOv5. Skilled in Computer Vision, Deep Learning, Full-Stack Development, and data-driven problem solving. Experienced in building intelligent healthcare and smart farming solutions, with a strong foundation in software engineering, data structures, and modern development tools. Passionate about leveraging AI technologies to create scalable and impactful real-world solutions.
 
+## Activity:
 ![](https://github-readme-stats.shion.dev/api?username=serusharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## Technical Skills:
